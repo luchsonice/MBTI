@@ -1,2 +1,6 @@
 data/
 other/
+
+
+#Ignore graph objeck
+*.pkl
